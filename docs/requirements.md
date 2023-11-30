@@ -13,13 +13,13 @@
 # parts
 - control board
   - esp32 based (or pi)
-    - (adafruit feather)[https://www.adafruit.com/product/5400]
+    - [adafruit feather](https://www.adafruit.com/product/5400)
   - need to drive enough current for coil (relay, mosfet)
-    - (relay)[https://www.adafruit.com/product/3191]
-    - (mostfet)[https://www.adafruit.com/product/5648]
+    - [relay](https://www.adafruit.com/product/3191)
+    - [mostfet](https://www.adafruit.com/product/5648)
   - short range motion sensor
   - long range motion sensor
-    - (adafruit)[https://www.adafruit.com/product/189]
+    - [adafruit](https://www.adafruit.com/product/189)
   - power? tbd
   - coil (motor wire, tube)
   - hammer

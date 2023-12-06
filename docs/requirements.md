@@ -5,7 +5,7 @@
 - app
   - enable / disable auto-fire
   - fire on command
-- this will be in a tree, it must catch the tree on fire:
+- this will be in a tree, it must not catch the tree on fire:
   - consider housing
   - consider parts used (ie less to zero custom h/w)
   - s/w protection (ie don't keep coil on very long)
@@ -13,18 +13,18 @@
 # parts
 - control board
   - esp32 based (or pi)
-    - [adafruit feather](https://www.adafruit.com/product/5400)
+    - [adafruit feather](https://www.adafruit.com/product/5400) - $20
   - need to drive enough current for coil (relay, mosfet)
-    - [relay](https://www.adafruit.com/product/3191)
-    - [mostfet](https://www.adafruit.com/product/5648)
+    - [relay](https://www.adafruit.com/product/3191) - $10
+    - [mostfet](https://www.adafruit.com/product/5648) - 
   - short range motion sensor
   - long range motion sensor
-    - [adafruit](https://www.adafruit.com/product/189)
-  - power? tbd
-  - coil (motor wire, tube)
+    - [adafruit](https://www.adafruit.com/product/189) - $10
+  - power? (geoff)
+  - coil (motor wire, tube) (geoff will figure out coil)
   - hammer
-  - projectiles
-  - spring? 2nd coil?
+  - projectiles (Ira is on it, ~1/2")
+  - spring tbd
 
 # plan
 - figure out rest of parts
